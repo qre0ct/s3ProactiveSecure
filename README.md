@@ -60,5 +60,7 @@ iam_access_key_secret = #################
 iam_user_name = sample-bucket-for-blog-s3
 ```
 
+## AWS console screen shot
+
 <img src="https://github.com/c0n71nu3/s3ProactiveSecure/blob/master/bucketPolicy.png" width="600" height="600">
 <img src="https://github.com/c0n71nu3/s3ProactiveSecure/blob/master/iamPolicy.png" width="600" height="600">
