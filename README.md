@@ -61,4 +61,4 @@ iam_user_name = sample-bucket-for-blog-s3
 ```
 
 ![SampleBucketPolicy](https://github.com/c0n71nu3/s3ProactiveSecure/blob/master/bucketPolicy.png "SampleBucketPolicyScreenShot ")
-![SampleIAMPolicy](https://github.com/c0n71nu3/s3ProactiveSecure/blob/master/iamPolicy.png "SampleIAMPolicyScreenShot ")
+![](https://github.com/c0n71nu3/s3ProactiveSecure/blob/master/iamPolicy.png =10x20)
