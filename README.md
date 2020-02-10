@@ -63,5 +63,6 @@ iam_user_name = sample-bucket-for-blog-s3
 ## AWS console screen shot
 ##### Bucket Policy
 <img src="https://github.com/c0n71nu3/s3ProactiveSecure/blob/master/bucketPolicy.png" width="600" height="600">
+
 ##### IAM Policy
 <img src="https://github.com/c0n71nu3/s3ProactiveSecure/blob/master/iamPolicy.png" width="600" height="600">
